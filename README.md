@@ -7,3 +7,5 @@ Machine learning (ML) is the study of computer algorithms that improve automatic
 ## How to use Projects
 
 All the files such as images or any data is provided under project directory. There is `index.ipynb` file which is source code written in Jupyter Notebook. Please use files to learn algorithms.
+
+Good Luck
