@@ -7,5 +7,3 @@ Machine learning (ML) is the study of computer algorithms that improve automatic
 ## How to use Projects
 
 All the files such as images or any data is provided under project directory. There is `.ipynb` file which is source code written in Jupyter Notebook. Please use files to learn algorithms.
-
-[1.Linear Regression](https://github.com/ravichaubey/Machine-Learning-Projects/tree/master/Linear%20Regression)
